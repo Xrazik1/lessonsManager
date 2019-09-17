@@ -1,0 +1,2 @@
+{"year": "2019", "month": "May", "price": 250, "duration": 15, "durationAll": 0, "excess": 0, "excessSum": 0, "lessonsCount": 19, "lessonsCompleted": 0, "Sum": 0, "expectedSum": 4750}
+
